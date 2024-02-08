@@ -1,4 +1,4 @@
-## Python App
+## Python Calculator App
 # VERSION
 Python 3.9.6
 Flask 3.0.2
